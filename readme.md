@@ -18,6 +18,9 @@ Currently, I am an undergraduate at Wayamba University of Sri Lanka, pursuing st
   </a>
 </div>
 
+</br>
+</br>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lakpriyaguru&label=Profile%20views&color=357ec7&style=flat" alt="lakpriyaguru" />
 </div>
