@@ -4,7 +4,7 @@ Currently, I am an undergraduate at Wayamba University of Sri Lanka, pursuing st
 
 <div align="center">
 <a href="https://www.facebook.com/lakpriyaguru/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/manulthanura" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
