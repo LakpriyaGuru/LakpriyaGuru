@@ -11,13 +11,15 @@ Currently, I am an undergraduate at Wayamba University of Sri Lanka, pursuing st
 	<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" style="margin-bottom: 5px;" />
 	
 	<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" style="margin-bottom: 5px;" />
-	<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" style="margin-bottom: 5px;" />
-	<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" style="margin-bottom: 5px;" />
-	<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" style="margin-bottom: 5px;" />
-	<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" style="margin-bottom: 5px;" />
-	<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" style="margin-bottom: 5px;" />
-	<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" style="margin-bottom: 5px;" />
-	<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" style="margin-bottom: 5px;" />
+	<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" style="margin-bottom: 5px;" />
+	<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" style="margin-bottom: 5px;" />
+	<img src="https://aleen42.github.io/badges/src/photoshop.svg" style="margin-bottom: 5px;" />
+	<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" style="margin-bottom: 5px;" />
+	<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="margin-bottom: 5px;" />
+	<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" style="margin-bottom: 5px;" />
+	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 5px;" />
+
+ 
 </div>
 
 ## Find me on 🌐
