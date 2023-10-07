@@ -44,12 +44,12 @@ A passionate individual with an interest in Programming, Electronics, and Photog
 
 ## 🛠️ Tools
 <div align="left">
-	<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" style="margin-bottom: 5px;" />
 	<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" style="margin-bottom: 5px;" />
 	<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" style="margin-bottom: 5px;" />
-	<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" style="margin-bottom: 5px;" />
 	<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="margin-bottom: 5px;" />
 	<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" style="margin-bottom: 5px;" />
+	<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" style="margin-bottom: 5px;" />
+	<!--<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" style="margin-bottom: 5px;" />-->
 </div>
 
 <!--
