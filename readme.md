@@ -16,6 +16,21 @@ A passionate individual with an interest in Programming, Electronics, and Photog
   <a href="https://www.linkedin.com/in/lakpriyaguru/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+  <a href="" target="_blank">
+  <img src="" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
 </div>
 
 ## 🧰 Languages and Tools
