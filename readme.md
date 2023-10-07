@@ -3,7 +3,7 @@
 
 A passionate individual with an interest in Programming, Electronics, and Photography. Currently, I am an undergraduate at Wayamba University of Sri Lanka, pursuing studies in Computing and Information Systems, Industrial Management, Mathematics and Mathematical Modelling, and Statistics.
 
-<div align="center">
+<div align="left">
   <a href="https://www.facebook.com/lakpriyaguru/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
   </a>
