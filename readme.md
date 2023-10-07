@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Lakpriya Gurugamage</h1>
-<p align="center">A passionate individual with an interest in Programming, Electronics, and Photography.</br>
-Currently, I am an undergraduate at Wayamba University of Sri Lanka, pursuing studies in Computing and Information Systems, Industrial Management, Mathematics and Mathematical Modelling, and Statistics.</p>
+# Lakpriya Gurugamage
 
-# Skills 🚀
+**'CS Undergraduate | Electronics'**
+
+A passionate individual with an interest in Programming, Electronics, and Photography. Currently, I am an undergraduate at Wayamba University of Sri Lanka, pursuing studies in Computing and Information Systems, Industrial Management, Mathematics and Mathematical Modelling, and Statistics.
+
+## Skills 🚀
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="margin-bottom: 5px;" />
 	<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="margin-bottom: 5px;" />
