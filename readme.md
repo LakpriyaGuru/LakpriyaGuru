@@ -1,5 +1,4 @@
 # Lakpriya Gurugamage
-
 **`CS Undergraduate | Electronics`**
 
 A passionate individual with an interest in Programming, Electronics, and Photography. Currently, I am an undergraduate at Wayamba University of Sri Lanka, pursuing studies in Computing and Information Systems, Industrial Management, Mathematics and Mathematical Modelling, and Statistics.
