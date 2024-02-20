@@ -19,6 +19,9 @@ A passionate individual with an interest in Programming and Electronics. Current
   <a href="https://www.linkedin.com/in/lakpriyaguru/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
+	<a>
+	<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" style="margin-bottom: 5px;" />
+	</a>
 <!--<a href="" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
@@ -37,12 +40,13 @@ A passionate individual with an interest in Programming and Electronics. Current
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 5px;" />
 	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 5px;" />
 	<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="margin-bottom: 5px;" />
+	
 </div>
 
 ## 🛠️ Tools
 <div align="left">
 	<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" style="margin-bottom: 5px;" />
-	<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" style="margin-bottom: 5px;" />
+	<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" style="margin-bottom: 5px;" />
 	<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="margin-bottom: 5px;" />
 	<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" style="margin-bottom: 5px;" />
 	<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" style="margin-bottom: 5px;" />
